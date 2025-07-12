@@ -8,6 +8,7 @@ functionality of 2D convolutional neural networks. [CNN_tf_nn.pdf](https://githu
 
 
 Bibliography :
+
 https://www.datacamp.com/tutorial/introduction-to-convolutional-neural-networks-cnns
 https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network
 https://www.geeksforgeeks.org/deep-learning/relu-activation-function-in-deep-learning/
