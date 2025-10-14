@@ -14,6 +14,11 @@ In most cases, CNN models contain at least three important elements, described b
 
 
 ## Convolutional neural networks
+Convolutional Neural Networks (CNNs) are an advanced version of Artificial Neural
+Networks (ANNs), mainly designed to extract features from matrix datasets. These types
+of networks are used primarily to deal with video, audio, and text content databases. As
+illustrated in Figure 1.1, the components of a simple 2-dimensional CNN are: input data
+matrix, filter, and map.
 
 
 ## Activate function
