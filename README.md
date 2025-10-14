@@ -7,6 +7,10 @@ using the tf.nn module in TensorFlow. The model has the ability to classify eigh
 functionality of 2D convolutional neural networks. [CNN_tf_nn.pdf](https://github.com/user-attachments/files/21197876/CNN_tf_nn.pdf)
 
 ## Elementary functions in the structure of CNN models
+In most cases, CNN models contain at least three important elements, described below.
+* CNN
+* Pool
+* Activate function
 
 
 ## Convolutional neural networks
