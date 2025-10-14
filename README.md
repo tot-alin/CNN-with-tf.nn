@@ -1,13 +1,25 @@
 # Convolutional neural network 2D with module tf.nn
 
-This project aims at realizing a model based on 2D convolutional neural networks
+  This project aims at realizing a model based on 2D convolutional neural networks
 using the tf.nn module in TensorFlow. The model has the ability to classify eight items
 ['airplane', 'car', 'cat', 'dog', 'flower', 'fruit', 'motorbike', 'person'] and has been trained with
 6899 images. The description of this project is mainly focused on describing the
 functionality of 2D convolutional neural networks. [CNN_tf_nn.pdf](https://github.com/user-attachments/files/21197876/CNN_tf_nn.pdf)
 
+## Elementary functions in the structure of CNN models
 
-Bibliography :
+
+## Convolutional neural networks
+
+
+## Activate function
+
+
+## Influența CNN, Pool și Activate function, asupra imagini
+
+
+
+## Bibliography :
 
 https://www.datacamp.com/tutorial/introduction-to-convolutional-neural-networks-cnns
 https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network
