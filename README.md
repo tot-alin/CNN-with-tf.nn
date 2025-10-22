@@ -64,14 +64,23 @@ The activation function is meant to transform the linear form of the weighted su
 <br />
 <br />
 
-## Influența CNN, Pool și Activate function, asupra imagini 
+## The influence of CNN, Pool and Activate function on images during processing
+In the following, a series of images, taken from the attached program, are presented, and the recursion of image modifications can be observed.
+<p align="center">
+<br />original image (224X224)
+<br /><img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/12b110f4-3389-47af-9185-82a99679adf0" />
+</p>
+
+<p align="center">
+<br />convolutions 1  (224, 224, 8)
+<br />![convolutie 1](https://github.com/user-attachments/assets/ce117ddc-dade-4c68-9068-5189d284e932)
+
+</p>
 
 
 
-
-
-## Influența CNN, Pool și Activate function, asupra imagini
-
+<br />
+<br />
 
 
 ## Bibliography :
