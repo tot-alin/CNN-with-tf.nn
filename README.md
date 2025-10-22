@@ -4,7 +4,10 @@
 using the tf.nn module in TensorFlow. The model has the ability to classify eight items
 ['airplane', 'car', 'cat', 'dog', 'flower', 'fruit', 'motorbike', 'person'] and has been trained with
 6899 images. The description of this project is mainly focused on describing the
-functionality of 2D convolutional neural networks. [CNN_tf_nn.pdf](https://github.com/user-attachments/files/21197876/CNN_tf_nn.pdf)
+functionality of 2D convolutional neural networks. 
+<p align="center">
+<img width="833" height="374" alt="Screenshot from 2025-10-22 16-25-31" src="https://github.com/user-attachments/assets/e6ebe532-65b1-4b4e-8a1c-87129d3c2f4c" />
+</p>
 
 ## Elementary functions in the structure of CNN models
 In most cases, CNN models contain at least three important elements, described below.
