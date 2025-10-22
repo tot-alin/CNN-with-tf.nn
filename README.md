@@ -73,10 +73,48 @@ In the following, a series of images, taken from the attached program, are prese
 
 <p align="center">
 <br />convolutions 1  (224, 224, 8)
-<br />![convolutie 1](https://github.com/user-attachments/assets/ce117ddc-dade-4c68-9068-5189d284e932)
-
+<br /><img width="780" height="383" alt="image" src="https://github.com/user-attachments/assets/b0a26ad9-5413-4baf-85cb-c1c3e7703499" />
 </p>
 
+<p align="center">
+<br />activate 1  (224, 224, 8)
+<br /><img width="781" height="377" alt="image" src="https://github.com/user-attachments/assets/e40efe09-d708-4904-87ea-2caa097bebdf" />
+</p>
+
+<p align="center">
+<br />pool 1  (112, 112, 8)
+<br /><img width="780" height="376" alt="image" src="https://github.com/user-attachments/assets/400e69f6-1e86-4fba-95ad-db3ac9f4c07e" />
+</p>
+
+<p align="center">
+<br />convolutions 2  (112, 112, 16)
+<br />
+</p>
+
+<p align="center">
+<br />activate 2  (112, 112, 16)
+<br />
+</p>
+
+<p align="center">
+<br />pool 2  (56, 56, 16)
+<br />
+</p>
+
+<p align="center">
+<br />convolutions 3  (56, 56, 32)
+<br />
+</p>
+
+<p align="center">
+<br />activate 3  (56, 56, 32)
+<br />
+</p>
+
+<p align="center">
+<br />pool 3  (28, 28, 32)
+<br />
+</p>
 
 
 <br />
