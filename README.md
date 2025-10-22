@@ -122,8 +122,20 @@ In the following, a series of images, taken from the attached program, are prese
 ## Bibliography :
 
 https://www.datacamp.com/tutorial/introduction-to-convolutional-neural-networks-cnns
+  
 https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network
+  
 https://www.geeksforgeeks.org/deep-learning/relu-activation-function-in-deep-learning/
+  
 https://www.datacamp.com/blog/rectified-linear-unit-relu
+
 https://www.geeksforgeeks.org/deep-learning/cnn-introduction-to-pooling-layer/
+
 https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/
+
+https://www.datacamp.com/tutorial/cnn-tensorflow-python
+
+
+
+
+
