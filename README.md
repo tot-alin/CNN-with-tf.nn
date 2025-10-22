@@ -88,35 +88,33 @@ In the following, a series of images, taken from the attached program, are prese
 
 <p align="center">
 <br />convolutions 2  (112, 112, 16)
-<br />
+<br /><img width="774" height="775" alt="image" src="https://github.com/user-attachments/assets/effc898e-f32d-4674-8920-bb14df71725f" />
 </p>
 
 <p align="center">
 <br />activate 2  (112, 112, 16)
-<br />
+<br /><img width="778" height="775" alt="image" src="https://github.com/user-attachments/assets/58383146-7dd9-4b8e-85b9-44575a1406c2" />
 </p>
 
 <p align="center">
 <br />pool 2  (56, 56, 16)
-<br />
+<br /><img width="777" height="781" alt="image" src="https://github.com/user-attachments/assets/6b15c568-4368-4cd5-b0a2-6ad1f2abfb39" />
 </p>
 
 <p align="center">
 <br />convolutions 3  (56, 56, 32)
-<br />
+<br /><img width="699" height="775" alt="image" src="https://github.com/user-attachments/assets/e035577e-9015-439e-a571-70841f3b71de" />
 </p>
 
 <p align="center">
 <br />activate 3  (56, 56, 32)
-<br />
+<br /><img width="694" height="777" alt="image" src="https://github.com/user-attachments/assets/b2ed6081-dbfd-4c63-911a-56312bf4bac9" />
 </p>
 
 <p align="center">
 <br />pool 3  (28, 28, 32)
-<br />
+<br /><img width="698" height="775" alt="image" src="https://github.com/user-attachments/assets/51979a33-9e16-4c3b-968d-7fce54a5cc3f" />
 </p>
-
-
 <br />
 <br />
 
