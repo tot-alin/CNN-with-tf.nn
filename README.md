@@ -8,13 +8,8 @@ functionality of 2D convolutional neural networks.
 <p align="center">
 <img width="833" height="374" alt="Screenshot from 2025-10-22 16-25-31" src="https://github.com/user-attachments/assets/e6ebe532-65b1-4b4e-8a1c-87129d3c2f4c" />
 </p>
-
-## Elementary functions in the structure of CNN models
-In most cases, CNN models contain at least three important elements, described below.
-* CNN
-* Pool
-* Activate function
-
+<br />
+<br />
 
 ## Convolutional neural networks
 Convolutional Neural Networks (CNNs) are an advanced version of Artificial Neural Networks (ANNs), mainly designed to extract features from matrix datasets. These types of networks are used primarily to deal with video, audio, and text content databases. As illustrated in Figure 1.1, the components of a simple 2-dimensional CNN are: input data matrix, filter, and map. 
@@ -36,7 +31,7 @@ Fig. 1.2 One core CNN with 3D data input and n maps output
 <p align="center">
 <img width="1068" height="324" alt="image" src="https://github.com/user-attachments/assets/5f942a25-3855-46b1-bff6-0aba9adb4577" />
 </p>
-
+<br />.
 <p align="center">
 <img width="720" height="124" alt="image" src="https://github.com/user-attachments/assets/e931dccd-da2b-426e-b3ce-1e7f02504d4d" />
 </p>
@@ -51,10 +46,28 @@ The result has the following form:
 <p align="center">
 <img width="429" height="194" alt="image" src="https://github.com/user-attachments/assets/ddcb002c-2421-4109-93fc-bd659c993f3c" />
 </p>
+<br />
+<br />
 
-
+## Pool
+The pooling layer is used in the structure of CNNs in order to reduce the size of feature maps while preserving the relevant information. The functionality of this method (Fig. 2.1) is based, as before, on a two-dimensional filter that slides on the feature map channel.
+<br /> Fig. 2.1 Pool
+<p align="center">
+<img width="595" height="176" alt="Screenshot from 2025-10-22 17-26-27" src="https://github.com/user-attachments/assets/2eeaefa4-26d9-405a-bc1a-7695df560e55" />
+</p>
+For example, the max_plot method takes the maximum value from the area it maps to. Setting the functionality of the tf.nn.max_pool() method involves specifying the window shape, ksize=[corresponding pool number, filter height, filter width, channel number], and the filter's shift steps. Padding the filter to the edge of the feature matrix padding= 'VALID' or 'SAME', (VALID) meaning that the filter edge does not exceed the matrix it slides on or (SAME) the center of the filter reaches the edge of the metric it slides on, adding 0 - ions to the edge of the matrix.
+<br />
+<br />
 
 ## Activate function
+The activation function is meant to transform the linear form of the weighted sum to a nonlinear form, i.e., the output does not change proportionally to the input. In most real-world situations, the data have complex shapes, and by adding a nonlinear function such as ReLU, Sigmoid, or Tanh, the network can create curved decision boundaries to separate them correctly. A commonly used function is the function ReLU, with the relation f(x)=max(0,x).
+<br />
+<br />
+
+## Influența CNN, Pool și Activate function, asupra imagini 
+
+
+
 
 
 ## Influența CNN, Pool și Activate function, asupra imagini
